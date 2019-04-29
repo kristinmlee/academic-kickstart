@@ -26,16 +26,16 @@ subtitle = ""
   name = "Statistics"
   #description = "100%"  
   
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "Big data"
+#[[feature]]
+  #icon = "database"
+  #icon_pack = "fas"
+  #name = "Big data"
   #description = "10%"
   
-[[feature]]
-  icon = "dna"
-  icon_pack = "fas"
-  name = "Genomics"
+#[[feature]]
+  #icon = "dna"
+  #icon_pack = "fas"
+  #name = "Genomics"
   #description = "10%"
   
 [[feature]]
