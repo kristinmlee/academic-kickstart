@@ -57,6 +57,11 @@ user_groups = ["Researchers", "Visitors"]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/krstnmlee"
+  
+  [[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/kristin-lee-9a574253/"
 
 [[social]]
   icon = "google-scholar"
