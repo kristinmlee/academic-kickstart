@@ -18,15 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoctoral research fellow"
-  company = "Columbia University"
+  title = "Graduate teaching assistant"
+  company = "University of California, Davis"
   company_url = ""
-  location = "New York, NY"
-  date_start = "2018-09-05"
-  date_end = ""
+  location = "Davis, CA"
+  date_start = "2013-09-05"
+  date_end = "2018-04-05"
   description = """
-  *  Working with large datasets across many species of new world monkeys to study the evolution of color vision 
-  *  Collaborating with an international team
+
+  *  Taught both small upper-level undergraduate and graduate class (20 students) and large lower-level undergraduate class (200 students)
+  *  Organized, developed lecture material for weekly discussion sessions, both as only TA and as a team
+  *  Taught R in weekly "analysis of data and models" section with sessions and assignments to analyze genetic data
 
   """
 
