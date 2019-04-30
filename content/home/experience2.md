@@ -32,22 +32,42 @@ date_format = "Jan 2006"
 
   """
 
+
 [[experience]]
-  title = "Graduate student researcher"
-  company = "University of California, Davis"
-  company_url = ""
-  location = "Davis, California"
+  title = "R Programming Instructor"
+  company = "STEMinist Data Science Bootcamp (UC Berkeley and UC Davis)"
+  company_url = "http://calnerds.berkeley.edu/programs/STEMinist"
+  location = "California"
   date_start = "2013-09-15"
   date_end = "2018-08-15"
   description = """
-  *  Developed appropriate statistical tools to extract information from population genetic and genomic data
-  *  Collaborated with other researchers, across disciplines and universities, to analyze and explore their data
-  *  Generated novel statistical models and analysis pipelines
-  *  Worked with big data (whole genomes from multiple populations) 
-  *  Published multiple papers as both first author and on collaborative teams in top journals 
-  *  Shared my work at invited international conferences and seminars and received recognition as a multiple-time finalist for best student talk
-  *  Supported by competitive National Science Foundation Graduate Research Fellowship
+  *  Co-created two- and three-day R programming workshops for UC Berkeley undergraduate and graduate students
+  *  Designed lecture material and hands-on exercises including final day challenge exercises at multiple skill levels
+  *  Co-taught four workshops at UC Berkeley
+  *  Helped bring the program to UC Davis and taught in their first workshop
+  *  Worked with Cal NERDS (New Experiences for Research and Diversity in Science) who offer free bootcamps for students, with an emphasis on recruiting low-income and/or underrepresented minority students
 
-
+  """
+  
+[[experience]]
+  title = "After School Coding Club Instructor"
+  company = "Martin Luther King Jr. K-8 School"
+  company_url = ""
+  location = "Sacramento, CA"
+  date_start = "2017-01-01"
+  date_end = "2018-04-30"
+  description = """
+  *  Taught weekly coding activities to fourth through sixth graders using Scratch, Tynker, and other programs to teach the fundamentals of coding and generate excitement for STEM
+  """
+  
+[[experience]]
+  title = "Assistant Inst"
+  company = "R for Beginners: an intensive introduction to data analysis (UC Davis)
+  company_url = ""
+  location = "Davis, CA"
+  date_start = "2017-01-01"
+  date_end = "2018-04-30"
+  description = """
+  *  Helped teach a free, four-day intensive R course to over 200 graduate students
   """
 +++
