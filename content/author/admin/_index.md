@@ -82,6 +82,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-## PhD seeking jobs in data science
+## **PhD seeking jobs in data science**
 
 Text here.
