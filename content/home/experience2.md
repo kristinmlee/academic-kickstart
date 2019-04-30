@@ -49,4 +49,18 @@ date_format = "Jan 2006"
 
   """
 
+[[experience]]
+  title = "After School Coding Club Instructor"
+  company = "Martin Luther King Jr. K-8 School"
+  company_url = ""
+  location = "Sacramento, CA"
+  date_start = "2017-01-01"
+  date_end = "2018-04-30"
+  description = """
+  *  Taught weekly coding activities to fourth through sixth graders using Scratch, Tynker, and other programs to teach the fundamentals of coding and generate excitement for STEM
+
+  """
+
+
+
 +++
