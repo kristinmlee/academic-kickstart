@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Postdoctoral Research Fellow"
+role = "New York, NY"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Columbia University", url = "" } ]
+#organizations = [ { name = "Columbia University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 #bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -38,7 +38,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2018
 
 [[education.courses]]
-  course = "BS in Biology and Mathematics"
+  course = "BS in Biology, Mathematics"
   institution = "University of Wisconsin-Madison"
   year = 2013
 
@@ -82,4 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Bio here.
+#Bio here.
