@@ -84,4 +84,6 @@ user_groups = ["Researchers", "Visitors"]
 
 ## **PhD seeking jobs in data science**
 
-Text here.
+I am a recent PhD seeking a career in data science. My dissertation work focused on developing and implementing novel statistical methods to analyze genomic data. I have demonstrated both independent and collaborative work. I also hold a bachelor's degree in mathematics, with coursework in computer science and graduate-level statistics and statistical computing and have experience teaching programming. I am currently a postdoctoral fellow at Columbia University.
+
+Technical skills: R, Java, Matlab, SQL, LaTeX, Markdown, Git
