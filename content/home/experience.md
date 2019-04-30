@@ -30,11 +30,10 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Graduate student researcher"
-  company = "University of California, Davis"
+  company = "University of California"
   company_url = ""
-  location = "Davis, California"
-  date_start = "2013-09-15"
-  date_end = "2018-08-15"
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
   description = """
-
 +++
