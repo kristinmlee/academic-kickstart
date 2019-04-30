@@ -36,8 +36,5 @@ date_format = "Jan 2006"
   date_start = "2013-09-15"
   date_end = "2018-08-15"
   description = """    
-  *  Developed appropriate statistical tools to extract information from population genetic and genomic data.
-  *  Collaborated with other researchers to help analyze and explore their data.
-  *  Supported by National Science Foundation Graduate Research Fellowship.
 
 +++
