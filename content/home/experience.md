@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Research experience"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,29 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoctoral research fellow"
-  company = "Columbia University"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
-  location = "New York, NY"
-  date_start = "2018-09-05"
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
-  #description = """Developing """
-  #Responsibilities include:
+  description = """
+  Responsibilities include:
   
-  #* Analysing
-  #* Modelling
-  #* Deploying
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Graduate student researcher"
-  company = "University of California, Davis"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "Davis, California"
-  date_start = "2013-09-15"
-  date_end = "2018-08-15"
-  #*  Developed appropriate statistical tools to extract information from population genetic and genomic data.
-  #*  Collaborated with other researchers to help analyze and explore their data.
-  #*  Supported by National Science Foundation Graduate Research Fellowship.
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
