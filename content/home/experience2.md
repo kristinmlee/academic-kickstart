@@ -48,26 +48,5 @@ date_format = "Jan 2006"
   *  Worked with Cal NERDS (New Experiences for Research and Diversity in Science) who offer free bootcamps for students, with an emphasis on recruiting low-income and/or underrepresented minority students
 
   """
-  
-[[experience]]
-  title = "After School Coding Club Instructor"
-  company = "Martin Luther King Jr. K-8 School"
-  company_url = ""
-  location = "Sacramento, CA"
-  date_start = "2017-01-01"
-  date_end = "2018-04-30"
-  description = """
-  *  Taught weekly coding activities to fourth through sixth graders using Scratch, Tynker, and other programs to teach the fundamentals of coding and generate excitement for STEM
-  """
-  
-[[experience]]
-  title = "Assistant Inst"
-  company = "R for Beginners: an intensive introduction to data analysis (UC Davis)
-  company_url = ""
-  location = "Davis, CA"
-  date_start = "2017-01-01"
-  date_end = "2018-04-30"
-  description = """
-  *  Helped teach a free, four-day intensive R course to over 200 graduate students
-  """
+
 +++
