@@ -25,6 +25,8 @@ date_format = "Jan 2006"
   date_start = "2018-09-05"
   date_end = ""
   description = """
+  *  Working with large datasets across many species of new world monkeys to study the evolution of color vision 
+  *  Collaborating with an international team
 
   """
 
@@ -36,9 +38,13 @@ date_format = "Jan 2006"
   date_start = "2013-09-15"
   date_end = "2018-08-15"
   description = """
-  *  Developed appropriate statistical tools to extract information from population genetic and genomic data.
-  *  Collaborated with other researchers to help analyze and explore their data.
-  *  Supported by National Science Foundation Graduate Research Fellowship.
+  *  Developed appropriate statistical tools to extract information from population genetic and genomic data
+  *  Collaborated with other researchers, across disciplines and universities, to analyze and explore their data
+  *  Generated novel statistical models and analysis pipelines
+  *  Worked with big data (whole genomes from multiple populations) 
+  *  Published multiple papers as both first author and on collaborative teams in top journals 
+  *  Shared my work at invited international conferences and seminars and received recognition as a multiple-time finalist for best student talk
+  *  Supported by competitive National Science Foundation Graduate Research Fellowship
 
 
   """
