@@ -61,4 +61,16 @@ date_format = "Jan 2006"
 
   """
   
+[[experience]]
+  title = "Assistant Instructor"
+  company = "R for Beginners: an intensive introduction to data analysis (UC Davis)"
+  company_url = ""
+  location = "Davis, CA"
+  date_start = "2016-01-01"
+  date_end = "2016-01-05"
+  description = """
+  *  Helped teach a free, four-day intensive R course to over 200 graduate students
+
+  """
+  
 +++
